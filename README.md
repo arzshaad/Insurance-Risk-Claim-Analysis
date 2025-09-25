@@ -40,7 +40,6 @@ The dataset includes:
 ## Skills
 - Power BI (Dashboard, Charts, Filters)  
 - Data Analysis (Segmentation, Risk Profiling)  
-- SQL / Data Prep  
 
 ---
 
